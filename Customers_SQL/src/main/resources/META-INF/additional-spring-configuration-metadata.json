@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "server.tomcat.additional-tld-skip-patterns",
+    "type": "java.lang.String",
+    "description": "A description for 'server.tomcat.additional-tld-skip-patterns'"
+  },
+  {
+    "name": "spring.view.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.view.prefix'"
+  },
+  {
+    "name": "spring.view.suffix",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.view.suffix'"
+  }
+]}

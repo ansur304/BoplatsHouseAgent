@@ -1,0 +1,2 @@
+mar 23, 2019 11:26:00 FM com.job.AutoRegister apply
+INFO: Total applied houses  ************* 0
