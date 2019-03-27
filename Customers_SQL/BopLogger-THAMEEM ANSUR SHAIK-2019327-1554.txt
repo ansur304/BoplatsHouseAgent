@@ -1,0 +1,231 @@
+mar 27, 2019 3:54:46 EM com.job.AutoRegister apply
+INFO: New Houses to apply :: 
+mar 27, 2019 3:54:46 EM com.job.AutoRegister apply
+INFO: 1 -----> 6,764 SEK
+LANDALA
+Landalabergen 32 .
+Stairs 1 of 6
+75.2 m²
+3 room(s)
+1 May
+2019
+27 Mar
+2019
+terms
+mar 27, 2019 3:54:46 EM com.job.AutoRegister apply
+INFO: 2 -----> 7,088 SEK
+GREVEGÅRDEN
+Grevegårdsvägen 86
+Stairs 1 of 3
+80.0 m²
+3 room(s)
+1 May
+2019
+27 Mar
+2019
+terms
+mar 27, 2019 3:54:46 EM com.job.AutoRegister apply
+INFO: 3 -----> 3,812 SEK
+SKÄLLTORP
+Gåsagången 12
+Stairs 3 of 3
+45.0 m²
+2 room(s)
+1 May
+2019
+27 Mar
+2019
+terms
+mar 27, 2019 3:54:46 EM com.job.AutoRegister apply
+INFO: 4 -----> 3,047 SEK
+HÖGSBOTORP
+Riksdalersgatan 25D
+Stairs 3 of 3
+20.0 m²
+1 room(s)
+1 Jun
+2019
+27 Mar
+2019
+terms
+mar 27, 2019 3:54:46 EM com.job.AutoRegister apply
+INFO: 5 -----> 7,167 SEK
+TOFTA
+Norra Dragspelsgatan 10 .
+Stairs 6 of 13
+74.7 m²
+3 room(s)
+1 May
+2019
+27 Mar
+2019
+terms
+mar 27, 2019 3:54:46 EM com.job.AutoRegister apply
+INFO: 6 -----> 5,314 SEK
+OLSKROKEN
+Prästgatan
+Stairs 2 of 4
+47.0 m²
+1 room(s)
+1 Jun
+2019
+27 Mar
+2019
+terms
+mar 27, 2019 3:54:46 EM com.job.AutoRegister apply
+INFO: 7 -----> 4,509 SEK
+NORRA KORTEDALA
+Februarigatan 18
+Stairs 1 of 3
+52.0 m²
+2 room(s)
+1 Jul
+2019
+26 Mar
+2019
+terms
+mar 27, 2019 3:54:46 EM com.job.AutoRegister apply
+INFO: 8 -----> 2,783 SEK
+JÄTTESTEN
+Långströmsgatan 9
+27.8 m²
+1 room(s)
+1 Jun
+2019
+26 Mar
+2019
+terms
+mar 27, 2019 3:54:46 EM com.job.AutoRegister apply
+INFO: 9 -----> 3,142 SEK
+LÄNSMANSGÅRDEN
+Klimatgatan 13
+Stairs 1 of 3
+35.0 m²
+1 room(s)
+16 Apr
+2019
+26 Mar
+2019
+terms
+mar 27, 2019 3:54:46 EM com.job.AutoRegister apply
+INFO: 10 -----> 4,740 SEK
+GAMLESTADEN
+Måns Bryntessonsgatan 18B
+Stairs 1 of 3
+48.0 m²
+2 room(s)
+16 Apr
+2019
+26 Mar
+2019
+terms
+mar 27, 2019 3:54:46 EM com.job.AutoRegister apply
+INFO: 11 -----> 4,778 SEK
+GAMLESTADEN
+Måns Bryntessonsgatan 18B
+Stairs 3 of 3
+48.0 m²
+2 room(s)
+16 Apr
+2019
+26 Mar
+2019
+terms
+mar 27, 2019 3:54:46 EM com.job.AutoRegister apply
+INFO: 12 -----> 5,342 SEK
+GAMLESTADEN
+Måns Bryntessonsgatan 18B
+Stairs 3 of 3
+59.0 m²
+2 room(s)
+16 Apr
+2019
+26 Mar
+2019
+terms
+mar 27, 2019 3:54:46 EM com.job.AutoRegister apply
+INFO: 13 -----> 5,342 SEK
+GAMLESTADEN
+Måns Bryntessonsgatan 18C
+Stairs 3 of 3
+59.0 m²
+2 room(s)
+16 Apr
+2019
+26 Mar
+2019
+terms
+mar 27, 2019 3:54:46 EM com.job.AutoRegister apply
+INFO: 14 -----> 5,248 SEK
+GAMLESTADEN
+Måns Bryntessonsgatan 18D
+Stairs 1 of 3
+58.0 m²
+2 room(s)
+16 Apr
+2019
+26 Mar
+2019
+terms
+mar 27, 2019 3:54:47 EM com.job.AutoRegister apply
+INFO: 15 -----> 4,830 SEK
+GAMLESTADEN
+Måns Bryntessonsgatan 18D
+Stairs 3 of 3
+49.0 m²
+2 room(s)
+16 Apr
+2019
+26 Mar
+2019
+terms
+mar 27, 2019 3:54:47 EM com.job.AutoRegister apply
+INFO: 16 -----> 5,818 SEK
+BRUNNSBO
+Berättelsegatan 9 .
+Stairs 3 of 3
+61.5 m²
+2 room(s)
+1 Jun
+2019
+26 Mar
+2019
+terms
+mar 27, 2019 3:54:47 EM com.job.AutoRegister apply
+INFO: 17 -----> 3,270 SEK
+ERIKSBO
+Eriksbo Östergärde 20
+Stairs 1 of 3
+38.0 m²
+1 room(s)
+1 May
+2019
+26 Mar
+2019
+terms
+mar 27, 2019 3:54:47 EM com.job.AutoRegister apply
+INFO: 18 -----> 5,935 SEK
+NORRA BISKOPSGÅRDEN
+Godvädersgatan 26 .
+Stairs 2 of 3
+69.9 m²
+3 room(s)
+1 May
+2019
+26 Mar
+2019
+terms
+mar 27, 2019 3:54:47 EM com.job.AutoRegister apply
+INFO: 19 -----> 3,083 SEK
+ÖSTRA BERGSJÖN
+Saturnusgatan 2
+Stairs 2 of 2
+25.8 m²
+1 room(s)
+1 Jun
+2019
+26 Mar
+2019
+terms
+mar 27, 2019 3:56:26 EM com.job.AutoRegister apply
+INFO: Total applied houses  ************* 19
