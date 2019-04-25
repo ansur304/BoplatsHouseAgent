@@ -9,6 +9,7 @@ It's been implemented with below services
  Spring Boot Starter project with depemdency
  J2EE, Java8
  REST Web service
+ Java Mail API
  Maven
  MongoDB on localHost or AWS Instance
  
