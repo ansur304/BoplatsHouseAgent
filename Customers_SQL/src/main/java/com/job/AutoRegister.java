@@ -256,6 +256,9 @@ public class AutoRegister {
 					logger.info("ERROR :: city NOT VISIBLE");
 					System.out.println("ElementNotVisibleException :: Göteborg city NOT VISIBLE");
 				}
+				WebElement rooms = driver.findElement(By.xpath("//*[@id='rooms']"));
+				Select room = new Select(rooms);
+				room.selectByVisibleText("2");
 				WebElement termMatch = driver.findElement(By.id("filterrequirements"));
 				termMatch.sendKeys(Keys.SPACE);
 				WebElement rent = driver.findElement(By.name("rent"));
