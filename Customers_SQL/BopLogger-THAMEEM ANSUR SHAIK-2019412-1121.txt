@@ -1,0 +1,213 @@
+Apr 12, 2019 11:21:17 AM com.job.AutoRegister apply
+INFO: New Houses to apply :: 
+Apr 12, 2019 11:21:17 AM com.job.AutoRegister apply
+INFO: 1 -----> 4,831 SEK
+LUNDEN
+Snoilskygatan 3D
+Stairs 3
+50.0 m²
+2 room(s)
+1 Jul
+2019
+12 Apr
+2019
+terms
+Apr 12, 2019 11:21:17 AM com.job.AutoRegister apply
+INFO: 2 -----> 3,948 SEK
+LUNDEN
+Ulfsparregatan 5A
+Stairs 4 of 4
+37.0 m²
+1 room(s)
+1 Jul
+2019
+12 Apr
+2019
+terms
+Apr 12, 2019 11:21:17 AM com.job.AutoRegister apply
+INFO: 3 -----> 5,050 SEK
+SVARTEDALEN
+Stackmolnsgatan 9
+Stairs 6 of 6
+56.0 m²
+2 room(s)
+1 May
+2019
+12 Apr
+2019
+terms
+Accessible apartment
+Apr 12, 2019 11:21:17 AM com.job.AutoRegister apply
+INFO: 4 -----> 6,424 SEK
+BACKA
+Hjalmar Bergmans Gata 58
+Stairs 2 of 3
+62.0 m²
+2 room(s)
+1 Jun
+2019
+12 Apr
+2019
+terms
+Apr 12, 2019 11:21:17 AM com.job.AutoRegister apply
+INFO: 5 -----> 5,796 SEK
+JÄRNBROTT
+Modulatorsgatan 3 .
+Stairs 1 of 3
+52.0 m²
+2 room(s)
+1 May
+2019
+12 Apr
+2019
+terms
+Apr 12, 2019 11:21:18 AM com.job.AutoRegister apply
+INFO: 6 -----> 5,229 SEK
+BACKA
+Julias Gata 93
+44.0 m²
+1 room(s)
+1 Jun
+2019
+12 Apr
+2019
+terms
+Accessible apartment
+Apr 12, 2019 11:21:18 AM com.job.AutoRegister apply
+INFO: 7 -----> 7,056 SEK
+NORRA KORTEDALA
+Sjusovaregatan 10
+Stairs 3 of 3
+81.0 m²
+4 room(s)
+1 Jul
+2019
+12 Apr
+2019
+terms
+Apr 12, 2019 11:21:18 AM com.job.AutoRegister apply
+INFO: 8 -----> 5,779 SEK
+BAGAREGÅRDEN
+Tomtebacksgatan 3A
+Stairs 2 of 3
+55.0 m²
+2 room(s)
+1 Jul
+2019
+12 Apr
+2019
+terms
+Apr 12, 2019 11:21:18 AM com.job.AutoRegister apply
+INFO: 9 -----> 2,509 SEK
+JÄTTESTEN
+Långströmsgatan 7
+Stairs 2 of 3
+22.6 m²
+1 room(s)
+1 Jun
+2019
+12 Apr
+2019
+terms
+Apr 12, 2019 11:21:18 AM com.job.AutoRegister apply
+INFO: 10 -----> 4,276 SEK
+NORRA BISKOPSGÅRDEN
+Klarvädersgatan 16 .
+Stairs 2 of 3
+59.6 m²
+2 room(s)
+16 Jun
+2019
+12 Apr
+2019
+terms
+Apr 12, 2019 11:21:18 AM com.job.AutoRegister apply
+INFO: 11 -----> 7,098 SEK
+KAVERÖS
+Riksdalersgatan 57
+Stairs 5 of 7
+45.0 m²
+1 room(s)
+1 Jul
+2019
+12 Apr
+2019
+terms
+Accessible apartment
+Apr 12, 2019 11:21:18 AM com.job.AutoRegister apply
+INFO: 12 -----> 4,176 SEK
+GULDHEDEN
+Doktor Westrings gata 15A .
+Stairs 3 of 3
+42.0 m²
+1 room(s)
+1 Jun
+2019
+12 Apr
+2019
+terms
+Apr 12, 2019 11:21:18 AM com.job.AutoRegister apply
+INFO: 13 -----> 5,090 SEK
+BJÖRKEKÄRR
+Träkilsgatan 63 .
+Stairs 3 of 3
+56.6 m²
+2 room(s)
+1 Jul
+2019
+12 Apr
+2019
+terms
+Apr 12, 2019 11:21:18 AM com.job.AutoRegister apply
+INFO: 14 -----> 5,579 SEK
+BJÖRKEKÄRR
+Träkilsgatan 15 .
+Stairs -1 of 3
+48.5 m²
+2 room(s)
+1 Jun
+2019
+12 Apr
+2019
+terms
+Apr 12, 2019 11:21:18 AM com.job.AutoRegister apply
+INFO: 15 -----> 5,461 SEK
+FRÖLUNDA TORG
+Marconigatan 9
+Stairs 6 of 11
+61.0 m²
+2 room(s)
+1 May
+2019
+11 Apr
+2019
+terms
+Short term contract, No tenure
+Apr 12, 2019 11:21:18 AM com.job.AutoRegister apply
+INFO: 16 -----> 5,464 SEK
+FRÖLUNDA TORG
+Marconigatan 9
+Stairs 9 of 11
+61.0 m²
+2 room(s)
+1 May
+2019
+11 Apr
+2019
+terms
+Short term contract, No tenure
+Apr 12, 2019 11:21:18 AM com.job.AutoRegister apply
+INFO: 17 -----> 4,645 SEK
+FRÖLUNDA TORG
+Mandolingatan 17
+Stairs 5 of 12
+51.0 m²
+2 room(s)
+1 Jun
+2019
+11 Apr
+2019
+terms
+Accessible apartment
+Apr 12, 2019 11:22:10 AM com.job.AutoRegister apply
+INFO: Total applied houses  ************* 17

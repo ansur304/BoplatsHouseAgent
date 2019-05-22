@@ -1,0 +1,207 @@
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: ERROR :: search-result-items no such element
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: ERROR :: search-result-items no such element
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: ERROR :: search-result-items no such element
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: ERROR :: search-result-items no such element
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: ERROR :: search-result-items no such element
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: New Houses to apply :: 
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: 1 -----> 6,824 SEK
+KALLEBÄCK
+Mejerigatan 8
+Stairs 4 of 10
+75.0 m²
+3 room(s)
+17 Jun
+2019
+22 May
+2019
+terms
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: 2 -----> 4,487 SEK
+NORRA KORTEDALA
+Adventsvägen 13
+49.0 m²
+2 room(s)
+16 Jun
+2019
+22 May
+2019
+terms
+Accessible apartment
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: 3 -----> 5,739 SEK
+JÄRNBROTT
+Modulatorsgatan 7 .
+Stairs 3 of 3
+52.0 m²
+2 room(s)
+1 Jul
+2019
+22 May
+2019
+terms
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: 4 -----> 7,132 SEK
+LÖVGÄRDET
+Paprikagatan 50
+Stairs 1 of 2
+77.6 m²
+3 room(s)
+1 Aug
+2019
+21 May
+2019
+terms
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: 5 -----> 5,012 SEK
+SANNA
+Öckerögatan 6 B
+Stairs 2 of 4
+44.0 m²
+2 room(s)
+1 Aug
+2019
+21 May
+2019
+terms
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: 6 -----> 5,737 SEK
+ÄNGÅS
+Topasgatan 21 .
+Stairs 2 of 2
+70.0 m²
+3 room(s)
+1 Aug
+2019
+21 May
+2019
+terms
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: 7 -----> 4,886 SEK
+JÄRNBROTT
+Kondensatorsgatan 23 .
+Stairs 3 of 3
+52.5 m²
+2 room(s)
+1 Jul
+2019
+21 May
+2019
+terms
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: 8 -----> 4,884 SEK
+NORRA BISKOPSGÅRDEN
+Godvädersgatan 1 .
+Stairs 1 of 3
+62.9 m²
+2 room(s)
+1 Jul
+2019
+21 May
+2019
+terms
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: 9 -----> 6,550 SEK
+VASASTADEN
+Bellmansgatan 3 .
+Stairs 2 of 5
+53.2 m²
+2 room(s)
+1 Jul
+2019
+21 May
+2019
+terms
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: 10 -----> 5,525 SEK
+INOM VALLGRAVEN
+Nedre Kvarnbergsgatan 16 .
+Stairs 4 of 4
+45.2 m²
+2 room(s)
+1 Jun
+2019
+21 May
+2019
+terms
+Accessible apartment
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: 11 -----> 5,464 SEK
+FRÖLUNDA TORG
+Marconigatan 11
+Stairs 4 of 11
+61.0 m²
+2 room(s)
+16 Jun
+2019
+20 May
+2019
+terms
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: 12 -----> 5,194 SEK
+LÄNSMANSGÅRDEN
+Rimfrostgatan 31 .
+Stairs 3 of 3
+65.2 m²
+3 room(s)
+1 Aug
+2019
+20 May
+2019
+terms
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: 13 -----> 5,008 SEK
+NORRA BISKOPSGÅRDEN
+Dimvädersgatan 38 .
+Stairs 3 of 3
+56.5 m²
+2 room(s)
+1 Aug
+2019
+20 May
+2019
+terms
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: 14 -----> 6,897 SEK
+KANNEBÄCK
+Opalgatan 17
+Stairs 2 of 3
+85.0 m²
+3 room(s)
+16 Jul
+2019
+18 May
+2019
+terms
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: 15 -----> 5,877 SEK
+KANNEBÄCK
+Bronsåldersgatan 70
+Stairs 2 of 3
+75.0 m²
+3 room(s)
+1 Jul
+2019
+18 May
+2019
+terms
+May 22, 2019 11:15:28 AM com.job.AutoRegister apply
+INFO: 16 -----> 4,895 SEK
+KANNEBÄCK
+Bronsåldersgatan 78
+Stairs 2 of 3
+60.0 m²
+2 room(s)
+1 Jul
+2019
+18 May
+2019
+terms
+May 22, 2019 11:16:21 AM com.job.AutoRegister apply
+INFO: Total applied houses  ************* 16
